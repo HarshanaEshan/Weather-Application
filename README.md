@@ -1,5 +1,5 @@
 
-# Live Weather Application Using HTML CSS and JS
+#🌥️  Live Weather Application Using HTML CSS and JS
 
 Welcome to the Live Weather Application! This project is a simple and intuitive web application developed using plain HTML, CSS, and JavaScript. It allows users to get real-time weather information for any location they enter.
 
