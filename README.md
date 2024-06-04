@@ -10,7 +10,7 @@ I would like to express my gratitude to the following resources and individuals 
  - [MDN Web Docs](https://developer.mozilla.org/en-US/)-For the comprehensive documentation and tutorials on HTML, CSS, and JavaScript that greatly assisted in the development process.
 
 ## Demo
-![demo](https://github.com/HarshanaEshan/Weather-Application/tree/master/assets/video/Demo.gif)
+![Demo](assets/video/Demo.gif)
 
 ---
 
